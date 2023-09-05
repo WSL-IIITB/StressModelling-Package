@@ -263,7 +263,7 @@ The list of node names, as strings, whose behaviour you want to visualize , over
 
 ## Authors
 
-- Arpitha Malavalli, Sowmith Nandan, Niharika Sri Parasa, Srinath Srinivasa
+- Arpitha Malavalli, Sowmith Nandan, Niharika Sri Parasa, Pooja Bassin, Srinath Srinivasa
 
 In case of queries, please contact 
-sowmith.nandan@iiitb.ac.in, arpitha.malavalli@iiitb.ac.in, niharikasri.parasa@iiitb.ac.in, sri@iiitb.ac.in
+sowmith.nandan@iiitb.ac.in, arpitha.malavalli@iiitb.ac.in, niharikasri.parasa@iiitb.ac.in, pooja.bassin@iiitb.ac.in, sri@iiitb.ac.in
