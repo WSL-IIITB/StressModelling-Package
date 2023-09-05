@@ -19,7 +19,7 @@ will witness an influx of people from the neighbouring provinces,thus reducing t
  We consider a system (built using bayesian networks or any existing system) for any target (target forms the capability vector), intervene at one or more variables and capture the capability vector post intervention.
  Through this work, We simulate policy interventions to understand the impact of it over time and to determine whether it is sustainable or not. It is useful to compare and contrast the effects of interventions across neighboring regions to assess sustainability.
 
-
+[****IJCAI Demo Paper Link****](https://www.researchgate.net/publication/373088433_Modeling_the_Impact_of_Policy_Interventions_for_Sustainable_Development) 
 <!--We build a system considering most probable factors that have an affect on target. Later we intervene at some nodes and observe its impact on target.
 After which we note the change in target, post intervention on its neighbouring regions and observe its stability over time steps.-->
 
